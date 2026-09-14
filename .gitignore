@@ -1,0 +1,14 @@
+# large data files are not tracked; download them with the scripts in 01-data-acquisition
+*.rds
+*.h5
+*.h5Seurat
+*.CEL
+*.CEL.gz
+*.tar
+*.gz
+data/
+geo/
+mr/
+logs/
+*.png
+*.pdf
