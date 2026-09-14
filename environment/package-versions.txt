@@ -1,0 +1,24 @@
+R 4.5.1 (2025-06-13 ucrt), Bioconductor 3.22
+
+Package versions used:
+  GEOquery        2.78.0
+  limma           3.66.0
+  GSVA            2.4.9
+  msigdbr         26.1.0
+  Seurat          5.5.1
+  harmony         2.0.5
+  glmnet          5.0
+  randomForest    4.7-1.2
+  e1071           1.7-17
+  Boruta          10.0.0
+  xgboost         3.2.1.1
+  pROC            1.19.1
+  coloc           5.2.3
+  affy            1.88.0
+  data.table      1.18.4
+  AnnotationDbi   1.72.0
+  org.Hs.eg.db    3.22.0
+
+Note on Windows and non-ASCII paths: R must be launched after clearing the locale
+environment variables (LC_ALL, LANG, LC_*). The wrapper script run-r.cmd in this
+folder does this and should be used to invoke every R script.
